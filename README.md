@@ -64,8 +64,10 @@ ________________________________________________________________________________
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/sr_b1mal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](bimalksec.co)  
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api?username=srb1mal&&show_icons=true&theme=radical"/>
-</a>
-</p>
+
+<details>
+  <summary>:zap: My-GitHub-Stats </summary>
+
+  <img align="center" alt="srb1mal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=srb1mal&&show_icons=true&theme=radical" />
+
+</details>
