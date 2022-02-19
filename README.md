@@ -3,7 +3,10 @@
 # WhoAMI
 __________________________________________________________________________________________________________
 #### It's Bimal_Kumar_Sahoo aka (sr_b1mal) on various social media platforms.
-![](https://tenor.com/view/hacker-python-coding-glitch-gif-24209207)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>)
 
 I'm currently working to improve my web-security skills by practicing it daily.
 
