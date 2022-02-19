@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://tenor.com/view/hacker-python-coding-glitch-gif-24209207" width="100"/>
+  <img src="https://giphy.com/stickers/iykra-pc-mac-laptop-WFZvB7VIXBgiz3oDXE" width="200"/>
 </div>
