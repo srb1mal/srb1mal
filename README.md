@@ -1,7 +1,7 @@
 ### Hi there 👋, 
 
 # WhoAMI
-#### It's Bimal_Kumar_Sahoo aka (sr_b1mal) on various social media platforms.
+#### It's Bimal_Kumar_Sahoo aka (sr_b1mal) on various social media platforms, studying Computer Science Engineering & doing BugBounty as side activity.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
@@ -14,7 +14,14 @@ I'm currently working to improve my web-security skills by practicing it daily.
 **Skills** → *web-pentesting / Bug Bounties / Python / JS / C*
 
 - 👩‍💻 I’m currently working on [ bimalksec.co ] 
-- ❗ I’m currently learning Offensive Security along with programming.
+___________________________________________________________________________________________________________________________________________________________________________
+
+### Currently Learning 
+
+🔰 CSE
+🔰 Offensive Security 
+🔰 Bug Bounties
+🔰 Scripting 
 
 ### Hobbies
 
@@ -22,8 +29,18 @@ I'm currently working to improve my web-security skills by practicing it daily.
 🔰 Watching web-series
 🔰 Explore The web
 
+### Resources I Follow
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/srb1mal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bimal-kumar-sahoo-432296209//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bimal.sahoo.1401)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sr_b1mal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sr_b1mal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](bimalksec.co)  
+🔰 Portswigger Academy
+🔰 Medium Writeups
+🔰 Twitter BugBounty Community
+🔰 Active BugHunter YouTube Channels
+🔰 INE Academy
+🔰 Hackerone (Hacker 101)
+🔰 HackTheBox Academy
+____________________________________________________________________________________________________________________________________________________________________________
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/srb1mal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/bimal-kumar-sahoo-432296209//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/bimal.sahoo.1401)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/sr_b1mal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/sr_b1mal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](bimalksec.co)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
