@@ -1,14 +1,12 @@
 ### Hi there 👋,  It's Bimal_Kumar_Sahoo aka (sr_b1mal) on social platforms.
 
-**srb1mal/srb1mal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
 I made this project just for trying my basic coding skills, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: HACKING / Bug Bounties / PYTHON / JS / C
+## Skills: HACKING / Bug Bounties / PYTHON / JS / C
 
 - 🔭 I’m currently working on [ bimalksec.co ] 
 - 🌱 I’m currently learning Offensive Security 
