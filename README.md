@@ -18,10 +18,10 @@ ________________________________________________________________________________
 
 ### Currently Learning 
 
-🔰 CSE
-🔰 Offensive Security 
-🔰 Bug Bounties
-🔰 Scripting 
+• CSE
+• Offensive Security 
+• Bug Bounties
+• Scripting 
 
 ### Hobbies
 
