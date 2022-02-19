@@ -14,8 +14,8 @@ I'm currently working to improve my web-security skills by practicing it daily.
 
 **Skills** → *web-pentesting / Bug Bounties / Python / JS / C*
 
-° 👩‍💻 I’m currently working on [ bimalksec.co ] 
-° ❗ I’m currently learning Offensive Security along with programming.
+- 👩‍💻 I’m currently working on [ bimalksec.co ] 
+- ❗ I’m currently learning Offensive Security along with programming.
 
 ### Hobbies
 
