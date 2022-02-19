@@ -25,19 +25,19 @@ ________________________________________________________________________________
 
 ### Hobbies
 
-🔰 Gaming 
-🔰 Watching web-series
-🔰 Explore The web
+- 🔰 Gaming 
+- 🔰 Watching web-series
+- 🔰 Explore The web
 
 ### Resources I Follow
 
-🔰 Portswigger Academy
-🔰 Medium Writeups
-🔰 Twitter BugBounty Community
-🔰 Active BugHunter YouTube Channels
-🔰 INE Academy
-🔰 Hackerone (Hacker 101)
-🔰 HackTheBox Academy
+- 🔰 Portswigger Academy
+- 🔰 Medium Writeups
+- 🔰 Twitter BugBounty Community
+- 🔰 Active BugHunter YouTube Channels
+- 🔰 INE Academy
+- 🔰 Hackerone (Hacker 101)
+- 🔰 HackTheBox Academy
 ____________________________________________________________________________________________________________________________________________________________________________
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/srb1mal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/bimal-kumar-sahoo-432296209//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/bimal.sahoo.1401)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/sr_b1mal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/sr_b1mal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](bimalksec.co)  
