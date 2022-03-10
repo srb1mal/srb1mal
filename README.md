@@ -24,7 +24,7 @@
 
 ### Hi there 👋, 
 
-## Who-AM-I
+## Who-Am-I
 
 #### It's Bimal_Kumar_Sahoo aka (sr_b1mal) on various social media platforms. Studying Computer Science Engineering & doing BugBounty as side activity.
 
