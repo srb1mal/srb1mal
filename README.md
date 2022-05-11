@@ -40,12 +40,7 @@ I'm currently working on improving my web-app security skills by learning & prac
 ____________________________________________________________________________________________________________________________________________________________________________
 
 
-**Skills** -
-*web-app security 
-Bug Hunting 
-Python 
-JS 
-C*
+**Skills** - *Web-app security / Bug Hunting / Python / JS / C*
 *************
 
 ### Currently Learning 
