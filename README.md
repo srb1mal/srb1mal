@@ -7,14 +7,14 @@
   <a href="https://www.linkedin.com/in/bimal-kumar-sahoo-432296209">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCGk79TOCIAdKQreAIGGfq_A">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.bugcrowd.com/srb1mal">
+    <img src="https://img.shields.io/badge/Bugcrowd-orange?style=for-the-badge&logo=Bugcrowd&logoColor=white" alt="Bugcrowd Badge"/>
   </a>
   <a href="https://twitter.com/sr_b1mal">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.facebook.com/bimal.sahoo.1401">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook Badge"/>
+  <a href="https://hackerone.com/srb1mal">
+    <img src="https://img.shields.io/badge/Hackerone-black?style=for-the-badge&logo=Hackerone&logoColor=white" alt="Hackerone Badge"/>
   </a>
 </div>
 
@@ -30,13 +30,22 @@
 #### Studying Computer Science Engineering & doing Bug-hunting as side activity.
 
 
-I'm currently working on improving my web-app security skills by learning & practicing it daily via playing CTF's. [ **Because we all know that practice makes you perfect** ]
+I'm currently working on improving my web-app security skills by learning & practicing it daily via playing CTF's. 
+[ **Because practice makes you perfect** ]
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
 </div>
 
-**Skills** → *web-app security / Bug Hunting / Python / JS / C*
+____________________________________________________________________________________________________________________________________________________________________________
+
+
+**Skills** -
+*web-app security 
+Bug Hunting 
+Python 
+JS 
+C*
 *************
 
 ### Currently Learning 
