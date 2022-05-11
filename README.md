@@ -26,24 +26,25 @@
 
 ## Who-Am-I
 
-#### It's Bimal_Kumar_Sahoo aka (sr_b1mal) on various social media platforms. Studying Computer Science Engineering & doing BugBounty as side activity.
+#### It's Bimal_Kumar_Sahoo aka (sr_b1mal) on various social platforms. 
+#### Studying Computer Science Engineering & doing Bug-hunting as side activity.
 
 
-I'm currently working on improving my web-security skills by learning & practicing it daily via playing CTF's. [ **Because we all know that practice makes you perfect** ]
+I'm currently working on improving my web-app security skills by learning & practicing it daily via playing CTF's. [ **Because we all know that practice makes you perfect** ]
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
 </div>
 
-**Skills** → *web-pentesting / Bug Bounties / Python / JS / C*
+**Skills** → *web-app security / Bug Hunting / Python / JS / C*
 *************
 
 ### Currently Learning 
 
 - 🔰 CSE
-- 🔰 Offensive Security 
-- 🔰 Bug Bounties
-- 🔰 Scripting 
+- 🔰 Web Application Security 
+- 🔰 Bug Hunting
+- 🔰 Scripting Languages
 
 ### Hobbies
 
@@ -53,13 +54,12 @@ I'm currently working on improving my web-security skills by learning & practici
 
 ### Resources I Follow
 
-- 🔰 Portswigger Academy
-- 🔰 Medium Writeups
-- 🔰 Twitter BugBounty Community
+- 🔰 Portswigger's (Web security academy)
+- 🔰 Medium & PentesterLand Writeups
+- 🔰 Twitter Infosec Community
 - 🔰 Active BugHunter YouTube Channels
 - 🔰 INE Academy
-- 🔰 Hackerone (Hacker 101)
-- 🔰 HackTheBox Academy
+- 🔰 Google
 ____________________________________________________________________________________________________________________________________________________________________________
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/sr_b1mal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](bimalksec.co)  
