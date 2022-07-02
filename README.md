@@ -4,13 +4,13 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/bimal-kumar-sahoo-432296209">
+  <a href="https://www.linkedin.com/in/srb1mal">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.bugcrowd.com/srb1mal">
     <img src="https://img.shields.io/badge/Bugcrowd-orange?style=for-the-badge&logo=Bugcrowd&logoColor=white" alt="Bugcrowd Badge"/>
   </a>
-  <a href="https://twitter.com/sr_b1mal">
+  <a href="https://twitter.com/srb1mal">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://hackerone.com/srb1mal">
