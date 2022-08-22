@@ -66,7 +66,7 @@ ________________________________________________________________________________
 - 🔰 Google
 ____________________________________________________________________________________________________________________________________________________________________________
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/sr_b1mal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](bimalksec.co)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/srb1mal/)
 
 
 <details>
