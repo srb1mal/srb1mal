@@ -24,16 +24,9 @@
 ## Who-Am-I ???
 
 #### It's Bimal_Kumar_Sahoo aka (srb1mal) on various social platforms. 
-#### Studying CSE.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
-</div>
-
 ____________________________________________________________________________________________________________________________________________________________________________
 
-
-**Skills** - *Web-app pentesting*
+**Skills** - *Web-app-pentesting*
 *************
 
 ### Currently Learning 
